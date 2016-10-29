@@ -1,2 +1,2 @@
 # TokenBucket
-Simple implementation of token bucket
+Simple implementation of rate limiter / token bucket
